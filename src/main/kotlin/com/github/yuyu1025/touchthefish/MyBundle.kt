@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.yuyu1025.touchthefish
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.yuyu1025.touchthefish.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yuyu1025.touchthefish.MyBundle
 
 class MyProjectService(project: Project) {
 
